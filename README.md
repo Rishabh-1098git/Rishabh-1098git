@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishabh011101?label=Follow)](https://twitter.com/intent/follow?screen_name=rishabh011101)
-[![Linkedin: rishabh](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabhsaini1098/)](https://www.linkedin.com/in/rishabhsaini1098/)
+[![Linkedin: rishabh](https://img.shields.io/badge/-rishabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabhsaini1098/)](https://www.linkedin.com/in/rishabhsaini1098/)
 ![GitHub followers](https://img.shields.io/github/followers/Rishabh-1098git?label=Follow&style=social)
 
 👇 Hit in your console or terminal to connect with me.
