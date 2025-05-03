@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Rishabh Saini! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi🙏🏻, I'm Rishabh Saini! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Frontend Engineer at <a href="https://aadiyog.in/">Aadiyog.in
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -8,7 +8,6 @@
 [![Linkedin: rishabh](https://img.shields.io/badge/-rishabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabhsaini1098/)](https://www.linkedin.com/in/rishabhsaini1098/)
 ![GitHub followers](https://img.shields.io/github/followers/Rishabh-1098git?label=Follow&style=social)
 
-👇 Hit in your console or terminal to connect with me.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
