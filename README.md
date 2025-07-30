@@ -14,7 +14,7 @@
 ```javascript
 const rishabh = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "java"],
+    code: ["TypeScript", "Javascript", "Java"],
     askMeAbout: ["web dev", "app dev", "DSA", "tech trends", "system design"],
     technologies: {
         frontEnd: {
@@ -38,7 +38,7 @@ const rishabh = {
         databases: ["Relational", "NoSQL"],
     },
     currentFocus: "To write code that solves a problem....",
-    funFact: "I hit gym 5 times a week..."
+    funFact: "I hit the gym 5 times a week..."
 };
 ```
 
